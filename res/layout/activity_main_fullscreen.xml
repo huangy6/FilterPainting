@@ -51,6 +51,16 @@
                 android:text="@string/dummy_button" />
         </LinearLayout>
 
+        <Gallery
+            android:id="@+id/gallery1"
+            android:layout_width="match_parent"
+            android:layout_height="410dp" />
+
+        <Gallery
+            android:id="@+id/gallery2"
+            android:layout_width="match_parent"
+            android:layout_height="317dp" />
+
     </FrameLayout>
 
 </FrameLayout>
